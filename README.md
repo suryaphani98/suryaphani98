@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Phanindra</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🌱 I’m currently learning **Python,SQL,Excel, PowerBI,**
+- 🌱 I’m currently learning **Python, SQL, Excel, PowerBI,**
 
 
 <p align="left">
